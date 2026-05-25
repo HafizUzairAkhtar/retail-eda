@@ -117,7 +117,7 @@ jupyter notebook retail_eda.ipynb
 
 <div align="center">
 
-*If you found this useful, consider giving it a* ⭐ *— it means a lot!*
+*If you found this useful, consider giving it a* ⭐ * it means a lot!*
 *Feel free to fork, contribute, or reach out on LinkedIn.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
