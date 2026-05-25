@@ -85,7 +85,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/uzair2121/HafizUzairAkhtar.git
+git clone https://github.com/HafizUzairAkhtar.git
 
 # Navigate to the project folder
 cd retail-sales-eda
